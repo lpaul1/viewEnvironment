@@ -1,0 +1,5 @@
+applications:
+- name: ViewEnvironment
+  mem: 128M
+  buildpack: msdotnet
+  services:
